@@ -1,2 +1,0 @@
-# Arch
-Install et autres
